@@ -1,0 +1,11 @@
+//Details: https://github.com/stubbornella/csslint/wiki/Rules
+{
+
+    "box-model": false,
+    "adjoining-classes": false,
+    "fallback-colors" : false,
+    "import": false,
+    "regex-selectors" : false,
+    "shorthand" : false
+    "important": false,
+}

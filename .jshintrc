@@ -31,10 +31,10 @@
     "onevar" : true,
 
     //custom globals
-    "predef" : [
+    "predef" : {
         "Backbone" : true,
         "_" : true,
         "define" : true,
         "require" : true
-    ]
+    }
 }

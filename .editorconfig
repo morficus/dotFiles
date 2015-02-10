@@ -1,4 +1,7 @@
-# http://editorconfig.org
+# EditorConfig is awesome
+# This file is for unifying the coding style for different editors and IDEs.
+# More information at http://editorconfig.org
+
 root = true
 
 [*]
@@ -8,3 +11,12 @@ end_of_line = lf
 charset = utf-8
 trim_trailing_whitespace = true
 insert_final_newline = true
+
+[*.json]
+indent_size = 2
+
+[*.less]
+indent_size = 2
+
+[*.md]
+trim_trailing_whitespace = false
